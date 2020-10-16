@@ -3,9 +3,10 @@ Oleh Kelompok C11
 Aaron Astonvilla Rompis (0511184000131) <br>
 Nikodemus Siahaan (05111840000151)
 
-Soal
 
-1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
+<b>Nomor 1<b>
+ 
+Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
  
 filter http.host contains "testing.mekanis.me", lalu follow tcp stream
 
@@ -13,13 +14,17 @@ filter http.host contains "testing.mekanis.me", lalu follow tcp stream
 
 dan servernya: nginx/1.14.0 (Ubuntu)
 
-2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
+<b>Nomor 2
+ 
+Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 
 File -> export objects -> http
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_124.png)
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_125.png)
 
-3. Cari username dan password ketika login di "ppid.dpr.go.id"!
+<b>Nomor 3<b>
+
+Cari username dan password ketika login di "ppid.dpr.go.id"!
 Cari http host yg contains nya ppid dpr go id dan request method nya post karena Login
 
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_126.png)
