@@ -4,7 +4,7 @@ Aaron Astonvilla Rompis (0511184000131) <br>
 Nikodemus Siahaan (05111840000151)
 
 
-Nomor 1<b>
+<b>Nomor 1
  
 Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
  
@@ -14,7 +14,7 @@ filter http.host contains "testing.mekanis.me", lalu follow tcp stream
 
 dan servernya: nginx/1.14.0 (Ubuntu)
 
-<b>Nomor 2<b>
+<b>Nomor 2
  
 Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 
