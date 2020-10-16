@@ -47,7 +47,7 @@ Temukan paket dari web-web yang menggunakan basic authentication method!
 Comand: http.authbasic
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_127.png)
 
-<b>Nomor 5<b>
+<b>Nomor 5</b>
 
 Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng! 
 
