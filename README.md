@@ -4,7 +4,7 @@ Aaron Astonvilla Rompis (0511184000131) <br>
 Nikodemus Siahaan (05111840000151)
 
 
-<b>Nomor 1<b>
+Nomor 1<b>
  
 Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
  
