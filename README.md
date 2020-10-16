@@ -88,6 +88,7 @@ tulis di display filterDst port 443
 
 pertama cari ip kita lalu tuliskan di display filter  Src host (ip), src host 172.20.10.3
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_140.png)
+
 15. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
 
 Command wireshark awal menggunakan wifi, monta.if.its.ac.id
