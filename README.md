@@ -7,7 +7,7 @@ Nikodemus Siahaan (05111840000151)
 <b>Nomor 1</b>
  
 Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
- 
+<b>jawab</b> 
 filter http.host contains "testing.mekanis.me", lalu follow tcp stream
 
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_123.png)
@@ -17,13 +17,13 @@ dan servernya: nginx/1.14.0 (Ubuntu)
 <b>Nomor 2</b>
  
 Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
-
+<b>jawab</b> 
 File -> export objects -> http
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_124.png)
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_125.png)
 
 <b>Nomor 3</b>
-
+<b>jawab</b> 
 Cari username dan password ketika login di "ppid.dpr.go.id"!
 Cari http host yg contains nya ppid dpr go id dan request method nya post karena Login
 
@@ -32,7 +32,7 @@ Cari http host yg contains nya ppid dpr go id dan request method nya post karena
 Sehingga username adalah 10pemuda dan password adalah guncangdunia
 
 <b>Nomor 4</b>
-
+<b>jawab</b> 
 Temukan paket dari web-web yang menggunakan basic authentication method!
 Comand: http.authbasic
 ![alt text](https://github.com/nicosiahaan/Jarkom_Modul1_Lapres_C11/blob/main/img/Screenshot_127.png)
